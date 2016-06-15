@@ -4,8 +4,8 @@
 
 - 黑醋栗香甜酒
 
-
 ## 利口酒
+
 
 ## 金酒
 
@@ -50,9 +50,6 @@
 
 ## 果汁的直调长饮
 
-- Gin Tonic（金汤力）
-- Spumoni
-
 ### Gin Tonic (金汤力)
 
 金酒: Gordon's, Beefeater, Tanqueray
@@ -61,4 +58,3 @@ Beefeater +  汤力水（金罐屈臣氏）+ 柠檬切块挤汁  + 冰
 
 ## 烈酒 + 利口酒
 
-烈酒: 
